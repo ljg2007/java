@@ -1,3 +1,1 @@
-function test(){
-   alert(1);
-}
+拖动插件
